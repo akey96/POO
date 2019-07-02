@@ -1,0 +1,5 @@
+build/
+.gradle/
+.idea/
+interfaces_and_abstract.iml
+.git/
